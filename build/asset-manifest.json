@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohit-tour-web/static/css/main.99a946db.css",
+    "main.js": "/rohit-tour-web/static/js/main.449df3bb.js",
+    "static/js/787.8dfb54a2.chunk.js": "/rohit-tour-web/static/js/787.8dfb54a2.chunk.js",
+    "index.html": "/rohit-tour-web/index.html",
+    "main.99a946db.css.map": "/rohit-tour-web/static/css/main.99a946db.css.map",
+    "main.449df3bb.js.map": "/rohit-tour-web/static/js/main.449df3bb.js.map",
+    "787.8dfb54a2.chunk.js.map": "/rohit-tour-web/static/js/787.8dfb54a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99a946db.css",
+    "static/js/main.449df3bb.js"
+  ]
+}
